@@ -1,6 +1,4 @@
 # pa-4
-
-Use the make file to compile.
 This is the continuation of PA3.
 
 How the game works with virus:

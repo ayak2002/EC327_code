@@ -1,7 +1,7 @@
 # pa-4
-This is the continuation of PA3.
+This is the continuation of PA3. The game now includes a Virus object.
 
-How the game works with virus:
+How the game works with Virus:
 
 The virus seeks the closest active student and goes after it. If the student is within a distance 2 of the virus, the student gets infected if it has less antibodies than the resistance of the virus. If it has more, it loses two antibodies.
 Whenever a virus infects a student, its resistance gets incremented by 2.
